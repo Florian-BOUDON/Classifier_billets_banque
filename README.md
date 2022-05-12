@@ -1,2 +1,2 @@
-# Modele_Presictif
-Prédiction par méthode des K-means et Regression logistique
+# Modèle Predictif & Machine Learning
+Comparaison de 2 modèles prédictifs: méthode des K-means et Regression logistique
