@@ -48,4 +48,4 @@ Ce projet de Machine Learning nous permet de classer les billets de banque en vr
 Grâce à l'analyse exploratoire, l'ACP et la comparaison des classifieurs, nous pourrons choisir le modèle qui offre les meilleures performances pour cette tâche de classification binaire.
 
 
-Ce projet fait partie de la formation data-analyste de Openclassrooms & ENSAEE (certificat bac+4)
+Ce projet fait partie de la formation data-analyst de Openclassrooms & ENSAEE (certificat bac+4)
