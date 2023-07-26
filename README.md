@@ -33,14 +33,15 @@ seaborn
 
 ### Structure des Fichiers
 
-├── Classifier.ipynb
-├── Billets_banque.csv
-├── Présentation.ppt
-└── README.md
+├── Classifier.ipynb     
+├── Billets_banque.csv     
+├── Présentation.ppt     
+└── README.md      
 
 Le dossier "data" contient le fichier CSV du jeu de données géométriques sur les billets de banque.
 Le fichier notebook.ipynb est un cahier Jupyter contenant tout le code et les analyses du projet.
 Le fichier README.md est le présent document, fournissant une description détaillée du projet.
+Le fichier présentation est un power point présentant les étapes et les résultats du modèle en 20 slides 
 
 ### Conclusion
 Ce projet de Machine Learning nous permet de classer les billets de banque en vrai ou faux en utilisant des données géométriques fournies par la banque.    
