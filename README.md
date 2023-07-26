@@ -1,6 +1,6 @@
 # Classifier de billets de banque
 
-Ce projet de Machine Learning vise à classifier des billets de banque en vrai ou faux billet en utilisant des données géométriques fournies par la banque.    
+Ce projet de Machine Learning vise à classer des billets de banque en vrai ou faux billet en utilisant des données géométriques fournies par la banque.    
 Le projet est divisé en trois parties principales dans un notebook Jupyter.
 
 ### Partie 1 : Analyse Exploratoire des Données
