@@ -1,6 +1,6 @@
 # Classifier de billets de banque
 
-Ce projet de machine learning vise à classer des billets de banque en vrai ou faux billet en utilisant des données géométriques fournies par la banque.    
+Ce projet de machine learning vise à classer des billets de banque en vrai ou faux billets en utilisant des données géométriques fournies par la banque.    
 Le projet est divisé en trois parties principales dans un notebook jupyter.
 
 ### Partie 1 : analyse exploratoire des données
@@ -12,13 +12,13 @@ Les étapes de cette analyse incluront :
 - Traitement des données manquantes
   
 ### Partie 2 : analyse en composantes principales (ACP)
-Dans cette partie, nous effectuerons une aAnalyse en composantes principales (ACP) pour représenter les données géométriques en deux dimensions (2D).    
+Dans cette partie, nous effectuerons une Analyse en composantes principales (ACP) pour représenter les données géométriques en deux dimensions (2D).    
 L'ACP permettra de réduire la dimensionnalité des données tout en préservant au mieux la variance, ce qui nous permet de visualiser les deux clusters de vrais et faux billets dans un plan 2D.
 
 
 ### Partie 3 : comparaison des classifiers - régression logistique vs. K-means
 Dans la dernière partie du notebook, nous comparerons deux classifiers : la régression logistique et K-means.     
-Nous utiliserons les métriques ROC (receiver operating characteristic) et la matrice de confusion pour évaluer les performances de chaque classifieur.    
+Nous utiliserons les métriques ROC (receiver operating characteristic) et la matrice de confusion pour évaluer les performances de chaque classifier.    
 Nous déterminons ainsi celui qui offre les meilleures prédictions pour le classement des billets de banque en vrai ou faux.
 
 ### Prérequis
@@ -44,8 +44,8 @@ Le fichier README.md est le présent document, fournissant une description déta
 Le fichier présentation est un power point présentant les étapes et les résultats du modèle en 20 slides 
 
 ### Conclusion
-Ce projet de machine learning nous permet de classer les billets de banque en vrai ou faux en utilisant des données géométriques fournies par la banque.    
-Grâce à l'analyse exploratoire, l'ACP et la comparaison des classifieurs, nous pourrons choisir le modèle qui offre les meilleures performances pour cette tâche de classification binaire.
+Ce projet de machine learning nous permet de classer les billets de banque en vrai ou faux billets en utilisant des données géométriques fournies par la banque.    
+Grâce à l'analyse exploratoire, l'ACP et la comparaison des classifiers, nous pourrons choisir le modèle qui offre les meilleures performances pour cette tâche de classification binaire.
 
 *******
 Ce projet fait partie de la formation data-analyst de l'ENSAE Paris & Openclassrooms (certificat bac+4).
